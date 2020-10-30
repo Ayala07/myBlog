@@ -1,0 +1,9 @@
+Este es un texto que tiene control de versiones
+
+linea 2
+
+linea 3
+
+linea 4
+
+con "rm --cached" quitamos un archivo de memoria ram
