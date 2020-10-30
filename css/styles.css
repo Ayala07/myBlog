@@ -6,14 +6,25 @@ body {
   margin: 0;
   padding: 0;
 }
+#post{
+    padding: 1em;
+
+}
 #container{
     width: 70%;
-    padding: 1em;
     text-align: left;
     border: 1px solid #ddd;
     margin: 0.5em auto;
-    border-radius: 30px;
+    border-radius: 10px;
 }
 #container h1{
     font-size: 28px;
+}
+#cabecera{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-left: 1em;
+    display: flex;
+    background-color:rgb(172, 255, 151) ;
+    margin: 0;
 }
