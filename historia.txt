@@ -11,3 +11,5 @@ con "rm --cached" quitamos un archivo de memoria ram
 con "git log" podemos ver nuestros commits realizados
 
 con "git show" podemos ver las diferencias entre commits
+
+si hacemos un commit sin "-m" y el mensaje git nos abrirá un editor de texto en terminal 
