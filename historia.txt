@@ -9,3 +9,5 @@ linea 7
 con "rm --cached" quitamos un archivo de memoria ram
 
 con "git log" podemos ver nuestros commits realizados
+
+con "git show" podemos ver las diferencias entre commits
