@@ -13,3 +13,6 @@ con "git log" podemos ver nuestros commits realizados
 con "git show" podemos ver las diferencias entre commits
 
 si hacemos un commit sin "-m" y el mensaje git nos abrirá un editor de texto en terminal 
+
+con "git checkout" podemos dar un vistaso a versiones anteriores del repositorio
+para regresar al commit principal solo debemos poner "git checkout master"
