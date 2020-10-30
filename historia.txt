@@ -1,9 +1,11 @@
 Este es un texto que tiene control de versiones
 
-linea 2
-
 linea 3
 
-linea 4
+linea 5
+
+linea 7
 
 con "rm --cached" quitamos un archivo de memoria ram
+
+con "git log" podemos ver nuestros commits realizados
