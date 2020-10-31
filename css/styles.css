@@ -33,6 +33,18 @@ body {
     margin: 0;
     
 }
+<<<<<<< HEAD
 #img{
     margin-right: 1em;
+=======
+#footer{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 1em;
+    background-color:#4e4e4e ;
+    color: rgb(231, 231, 231);
+    font-weight: 100;
+    display: flex;
+    justify-content: center;
+>>>>>>> footer
 }
