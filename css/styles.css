@@ -5,12 +5,14 @@ body {
   font-size: 20px;
   margin: 0;
   padding: 0;
+  background-color: #e5fae1;
 }
 #post{
     padding: 1em;
-
+    
 }
 #container{
+    background-color: #ffffff;
     width: 70%;
     text-align: left;
     border: 1px solid #ddd;
@@ -25,6 +27,12 @@ body {
     border-top-right-radius: 10px;
     padding-left: 1em;
     display: flex;
-    background-color:rgb(172, 255, 151) ;
+    align-items: center;
+    justify-items: center;
+    background-color:#acff97 ;
     margin: 0;
+    
+}
+#img{
+    margin-right: 1em;
 }
